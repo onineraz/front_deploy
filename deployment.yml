@@ -27,4 +27,4 @@ spec:
     spec:
       containers:
       - name: web-con
-        image: onineraz/front:3
+        image: onineraz/front:4
